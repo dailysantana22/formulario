@@ -1,0 +1,43 @@
+.features {
+    /* Estilos para la sección de características */
+    background-color: #f7f7f7;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .features--large {
+    /* Modificador para la sección de características grande */
+    padding: 100px;
+  }
+  
+  .features__item {
+    /* Estilos para los elementos de la sección de características */
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 50%;
+  }
+  
+  .features__title {
+    /* Estilos para los títulos de la sección de características */
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .features__text {
+    /* Estilos para el texto de la sección de características */
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .features__button {
+    /* Estilos para los botones de llamada a la acción */
+    background-color:blue;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  

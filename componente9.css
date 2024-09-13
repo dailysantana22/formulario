@@ -1,0 +1,33 @@
+
+.listado {
+    /* Estilos para el listado */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .listado--con-iconos {
+    /* Modificador para el listado con iconos */
+    background-color: blue;
+    padding: 20px;
+  }
+  
+  .listado__item {
+    /* Estilos para los elementos del listado */
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .listado__icono {
+    /* Estilos para los iconos del listado */
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  .listado__texto {
+    /* Estilos para el texto del listado */
+    font-size: 18px;
+  }
+  

@@ -1,0 +1,50 @@
+
+.navbar {
+    /* Estilos para la barra de navegación */
+    background-color: lightcoral;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .navbar--sticky {
+    /* Modificador para la barra de navegación sticky */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  .navbar__contenido {
+    /* Estilos para el contenido de la barra de navegación */
+    margin: 0 auto;
+    padding: 20px;
+    width: 80%;
+  }
+  
+  .navbar__logo {
+    /* Estilos para el logotipo de la barra de navegación */
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .navbar__links {
+    /* Estilos para los enlaces de la barra de navegación */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar__link {
+    /* Estilos para los enlaces individuales de la barra de navegación */
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .navbar__link-texto {
+    /* Estilos para el texto de los enlaces de la barra de navegación */
+    color: #fff;
+    text-decoration: none;
+  }
+  

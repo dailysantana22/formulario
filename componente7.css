@@ -1,0 +1,44 @@
+.footer {
+    /* Estilos para el pie de página */
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer--dark {
+    /* Modificador para el pie de página oscuro */
+    background-color: #444;
+  }
+  
+  .footer__content {
+    /* Estilos para el contenido del pie de página */
+    margin: 0 auto;
+    padding: 20px;
+    width: 80%;
+  }
+  
+  .footer__text {
+    /* Estilos para el texto del pie de página */
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .footer__links {
+    /* Estilos para los enlaces del pie de página */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer__link {
+    /* Estilos para los enlaces individuales del pie de página */
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .footer__link-text {
+    /* Estilos para el texto de los enlaces del pie de página */
+    color: #fff;
+    text-decoration: none;
+  }
